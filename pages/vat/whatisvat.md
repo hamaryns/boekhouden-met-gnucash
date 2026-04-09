@@ -12,7 +12,7 @@ Bij de btw-aangifte gaat het erom dat een deel van de financiële gegevens van j
 
 De Belastingdienst heeft een website waarop elke ondernemer kan inloggen en eenvoudig zijn cijfers kan invullen. Het belangrijkste is dat je boekhouding klopt, want de gegevens die je gebruikt voor de aangifte omzetbelasting komen rechtstreeks uit jouw boekhouding.
 
-## Btw terug vragen en afdragen
+## Btw terugvragen en afdragen
 
 De btw op zakelijke kosten mag je “aftrekken”. Dit betekent dat je de btw die je aan jouw leverancier hebt betaald mag aftrekken van de btw die je aan de Belastingdienst moet afdragen.
 
