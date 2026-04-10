@@ -10,7 +10,6 @@ last_modified_date: {% last_modified_at %}
 ---
 
 ## Boekhouden met GnuCash
-
 Welkom bij deze handleiding voor GnuCash, een opensource computerprogramma waarmee je zelf in staat bent je boekhouding te doen.
 
 Deze handleiding is met name gericht op zzp’ers in de context van de Nederlandse markt. Er wordt ingegaan op hoe je met btw omgaat en hoe GnuCash je veel handmatig rekenwerk uit handen kan nemen, en zelfs je factuuropmaak voor je doet.
