@@ -8,15 +8,15 @@ nav_order: 2
 ## Dubbel boekhouden
 
 Een boekhoudsysteem gaat over geld en over transacties: het overboeken van geld.
-Het zogeheten dubbele boekhoudsysteem is het meeste gebruikte boekhoudsysteem.
+Het zogeheten dubbelboekhoudsysteem is het meestgebruikte boekhoudsysteem.
 
 Dubbel boekhouden begint vanuit het idee dat je door transacties twee keer op
-iets verschillende manieren op te schrijven (oftewel boeken), je de getallen
+verschillende manieren op te schrijven (oftewel boeken), je de getallen
 met elkaar kunt vergelijken en daarmee kunt controleren of er iets mis is gegaan.
 
 ### Rekening
-De basis van elk boekhoudsysteem is een rekening: een plaats waar geld naar toe
-en geld van af kan worden geschreven. Een boekhouding bestaat een verzameling
+De basis van elk boekhoudsysteem is een rekening: een plaats waar geld naartoe
+en geld vanaf kan worden geschreven. Een boekhouding bestaat uit een verzameling
 rekeningen die samen het grootboek genoemd worden.
 
 ### Bankrekening
@@ -29,7 +29,7 @@ worden bijgehouden.
 
 ### Debiteuren
 De rekening voor de klanten heet **Debiteuren**. Debet is een Latijns woord dat
-"schuld" betekent. Het Engelse woord **debt** is hier rechtstreeks van afgeleid.
+“schuld” betekent. Het Engelse woord **debt** is hier rechtstreeks van afgeleid.
 Klanten worden debiteuren genoemd omdat zij ons geld verschuldigd zijn.
 
 ### Crediteuren
@@ -49,7 +49,7 @@ betaalde bedrag van de debiteuren-rekening naar de bankrekening.
 Als alle klanten betaald hebben, is het saldo op de debiteuren-rekening dus 0.
 
 ### Inkoopfacturen
-Bij de inkoopfactuur gaat dit op dezelfde manier. Zodra je de bestelling doet,
+Bij een inkoopfactuur gaat dit op dezelfde manier. Zodra je de bestelling doet,
 krijg je een factuur. Deze factuur wordt een aantal regels in de Crediteurenrekening
 en het totale bedrag wordt als negatief bedrag op de crediteuren-rekening geschreven.
 Hiermee kun je zien hoeveel je nog moet betalen. Zodra je de factuur betaalt,
@@ -57,7 +57,7 @@ wordt het bedrag van de bank-rekening overgeschreven naar de Crediteuren-rekenin
 Als alles is betaald, is het saldo op de crediteuren-rekening 0.
 
 ### Conclusie
-Je ziet dat door op deze manier via twee rekeningen steeds te werken, je inzicht
+Je ziet dat door op deze manier steeds via twee rekeningen te werken, je inzicht
 blijft houden, en kunt controleren of betalingen volledig zijn.
 Dit is de basis van dubbel boekhouden. Voor een complete boekhouding zijn er
 nog meer rekeningen nodig, maar dat werkt op een vergelijkbare manier.
