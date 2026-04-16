@@ -20,7 +20,7 @@ formaten. De Nederlandse banken ondersteunen in principe het MT940 en/of het MT9
 formaat voor zakelijke rekeningen.
 
 Voor privé-rekeningen ondersteunen de Nederlandse banken over het algemeen het CSV-formaat.
-Vanwege beperkingen in GnuCash gaat het importeren van CSV bestanden helaas niet bij elke bank even
+Vanwege beperkingen in GnuCash gaat het importeren van CSV-bestanden helaas niet bij elke bank even
 gemakkelijk vanwege verschillen in de manier waarop de banken deze bestanden aanmaken.
 
 In elk geval is het raadzaam de twee methodes niet door elkaar heen te gebruiken, om
@@ -28,7 +28,3 @@ te voorkomen dat boekingen twee keer in je boekhouding komen te staan.
 Vanaf ongeveer 20 mutaties (af- en bijschrijvingen) per maand wordt het interessant
 om te gaan importeren. Vanwege het downloaden en eventueel aanpassen van het CSV-
 bestand is het tot 20 mutaties ongeveer net zo snel om de zaken handmatig in te voeren.
-
-
-
-
