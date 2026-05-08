@@ -34,8 +34,7 @@ Een factuur moet aan een aantal eisen voldoen:
 * Betaaltermijn
 * Betaalwijze
 
-De facturen die je met GnuCash kunt maken voldoen aan deze eisen. Bovendien is er
-de mogelijkheid om de gegenereerde facturen op scherm in te zien en als PDF op te slaan.
+De facturen die je met GnuCash kunt maken voldoen aan deze eisen. Bovendien is er de mogelijkheid om de gegenereerde facturen op scherm in te zien en als PDF op te slaan.
 
 ## Een factuur maken
 
